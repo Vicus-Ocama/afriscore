@@ -80,7 +80,7 @@ The app opens at `http://localhost:8501`
 
 ## ☁️ Live Demo
 
-👉 [Open AfriScore on Streamlit Cloud](YOUR_STREAMLIT_LINK_HERE)
+👉 [Open AfriScore on Streamlit Cloud](https://vicusocama-afriscore.streamlit.app/)
 
 ---
 
